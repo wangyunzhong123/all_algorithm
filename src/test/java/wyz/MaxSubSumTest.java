@@ -9,13 +9,12 @@ import static org.junit.Assert.*;
 /**
  * Created by tianxi on 7/29/16.
  */
-public class AppTest {
+public class MaxSubSumTest {
 
-    private App app;
-
+    MaxSubSum maxSubSum;
     @Before
     public void setUp() throws Exception {
-        app = new App();
+        maxSubSum = new MaxSubSum();
     }
 
     @After
@@ -24,13 +23,8 @@ public class AppTest {
     }
 
     @Test
-    public void testMain() throws Exception {
-        app.main(null);
+    public void testExecute() throws Exception {
+        int a[]={1,2,4,-8,8,4,-1,3};
+        maxSubSum.execute(a);
     }
-
-    @Test
-    public void testSayHello() throws Exception {
-        app.sayHello();
-    }
-
 }
