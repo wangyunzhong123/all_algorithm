@@ -49,7 +49,7 @@ public class HeapSort {
     }
 
     //建堆
-    private void build_max_heap(int a[]){
+    public void build_max_heap(int a[]){
         heap_size = a.length;
         for(int i=new Double(Math.floor((a.length-1)/2)).intValue();i>=0;i--){
             max_heapify(a,i);
@@ -69,5 +69,53 @@ public class HeapSort {
     //获取父节点
     private int parent(int i){
         return new Double(Math.floor((i-1)/2)).intValue();
+    }
+
+
+    //应用，优先队列
+    public void execute2(int a[]){
+        build_max_heap(a);
+    }
+    //返回最大值
+    public int heap_max(int a[]){
+        System.out.println("返回的最大值是： "+a[0]);
+        return a[0];
+    }
+    //删除并返回最大值
+    public int heap_extract_max(int a[]){
+        if(heap_size <0) {
+            System.out.println("出错了，队列为空。。");
+            return -1;
+        }
+        int max = a[0];
+        a[0] = a[heap_size-1];
+        heap_size = heap_size-1;
+        max_heapify(a,0);
+        System.out.println("删除并返回的最大值是： "+max);
+        return max;
+    }
+    //增加一个元素的值
+    public void heap_increase_key(int a[],int i,int key){
+        if(key < a[i]){
+            System.out.println("出错了，增加的值比原值小..");
+            return;
+        }
+
+        a[i] = key;
+        while (i>0 && a[parent(i)]<a[i]){
+            //交换值
+            int temp = a[i];
+            a[i] = a[parent(i)];
+            a[parent(i)] = temp;
+
+            i = parent(i);
+        }
+
+    }
+    //插入新值，是通过增加元素的值实现的
+    public void heap_insert(int a[],int key){
+        heap_size = heap_size+1;
+        a[heap_size] = -100000;
+        heap_increase_key(a,heap_size,key);
     }
 }
