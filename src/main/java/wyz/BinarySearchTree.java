@@ -354,7 +354,7 @@ public class BinarySearchTree {
         try {
             BinarySearchTree bst = new BinarySearchTree();
             System.out.println("查找树是否为空？ " + (bst.isEmpty() ? "是" : "否"));
-            int[] keys = new int[] { 15, 6, 18, 3, 7, 13, 20, 2, 9, 4 };
+            int[] keys = new int[] { 15, 6, 18, 3, 10, 13, 20, 2, 9, 4 ,7 ,8};
             for (int key : keys) {
                 bst.insert(key);
             }
@@ -365,9 +365,12 @@ public class BinarySearchTree {
             TreeNode maxKeyNode = bst.maxElemNode(bst.getRoot());
             System.out.println("最大关键字： " + maxKeyNode.getKey());
             testNode(bst, maxKeyNode);
+
+            bst.delete(6);
             System.out.println("根结点关键字： " + bst.getRoot().getKey());
             testNode(bst, bst.getRoot());
             testTraverse(bst);
+
         } catch (Exception e) {
             System.out.println(e.getMessage());
             e.printStackTrace();
