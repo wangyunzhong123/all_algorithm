@@ -361,7 +361,7 @@ public class RBTree<T extends Comparable<T>> {
                     RBTNode<T> tmp;
                     leftRotate(parent);
                     tmp = parent;
-                    parent = node;
+//                    parent = node;
                     node = tmp;
                 }
 
