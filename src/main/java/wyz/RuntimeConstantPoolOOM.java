@@ -67,6 +67,9 @@ public class RuntimeConstantPoolOOM {
 //        System.out.println("str3.intern()==str3\t"+(str3.intern()==str3));
         System.out.println("str14.intern()==str12\t"+(str14.intern()==str12));
         System.out.println("str15.intern()==str12\t"+(str15.intern()==str12));
+
+        Integer a = null;
+        Object b =null;
         /*
         * 分析：当字符串中有通过StringBuffer一次生成的String对象，则不会将字符串常量付给任何字符串对象。
         * 同样如果字符串str2注销，换成str3，结果依然为false。
