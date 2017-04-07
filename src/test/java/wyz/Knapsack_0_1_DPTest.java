@@ -24,9 +24,9 @@ public class Knapsack_0_1_DPTest {
 
     @Test
     public void testExecute() throws Exception {
-        int w[]={0,1,2,5,6,7};
-        int v[]={0,1,6,18,22,28};
-        int W =11;
+        int w[]={11,5,4,6,3,1};
+        int v[]={100,5000,4000,3000,500,200};
+        int W =10;
         knapsack_0_1_dp.execute(v,w,w.length,W);
         knapsack_0_1_dp.print_result(w.length-1,W);
     }
