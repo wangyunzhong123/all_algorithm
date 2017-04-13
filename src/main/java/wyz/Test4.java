@@ -39,6 +39,24 @@ public class Test4 {
         int o = Integer.parseInt(a, 8); // 8进制
         System.out.println("二进制转为十进制: " + d);
         System.out.println("八进制转为十进制: " + o);
+
+//        System.out.println(cal(9,011));
+        System.out.println(Integer.MAX_VALUE);
+        System.out.println(Integer.MAX_VALUE * 2);
+        System.out.println(Integer.MAX_VALUE <<1);
+        System.out.println(Integer.MIN_VALUE);
+        System.out.println();
+
+    }
+
+    public static int cal(int a,int b){
+        try{
+            return a / b;
+        }catch(Exception e){
+            System.out.println("eeee");
+        }
+
+        return 0;
     }
 
 }
