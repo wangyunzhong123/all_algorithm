@@ -1,5 +1,6 @@
 package wyz;
 
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeSet;
@@ -75,14 +76,42 @@ public class Word_Break {
 
         return t[s.length()];
     }
+
+    /*
+    * 3. Java Solution 3 - Simple and Efficient
+    In Solution 2, if the size of the dictionary is very large, the time is bad.
+    Instead we can solve the problem in O(n^2) time (n is the length of the string).
+    * */
+    public static boolean wordBreak_simple(String s, Set<String> wordDict) {
+        int[] pos = new int[s.length()+1];
+
+        Arrays.fill(pos, -1);
+
+        pos[0]=0;
+
+        for(int i=0; i<s.length(); i++){
+            if(pos[i]!=-1){
+                for(int j=i+1; j<=s.length(); j++){
+                    String sub = s.substring(i, j);
+                    if(wordDict.contains(sub)){
+                        pos[j]=i;
+                    }
+                }
+            }
+        }
+
+        return pos[s.length()]!=-1;
+    }
+
     public static void main(String[] args){
         Set<String> dict = new HashSet<String>();
         dict.add("leet");
         dict.add("lee");
         dict.add("code");
 
-        String s = "leetcodeleeq";
+        String s = "leetcodelee";
         System.out.println(wordBreakHelper(s,dict,0));
+        System.out.println(wordBreak_DP(s,dict));
 
         Set<String> set = new TreeSet<String>();
         set.add("abc");

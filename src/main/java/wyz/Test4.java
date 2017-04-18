@@ -46,7 +46,11 @@ public class Test4 {
         System.out.println(Integer.MAX_VALUE <<1);
         System.out.println(Integer.MIN_VALUE);
         System.out.println();
+        System.out.println(Integer.SIZE);
+        System.out.println(Long.MAX_VALUE);
+        System.out.println(Long.SIZE);
 
+        return;
     }
 
     public static int cal(int a,int b){
