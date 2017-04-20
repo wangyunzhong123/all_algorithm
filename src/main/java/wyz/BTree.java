@@ -123,9 +123,9 @@ public class BTree<K, V>
     private static class BTreeNode<K, V>
     {
         /** 节点的项，按键非降序存放 */
-        private List<Entry<K,V>> entrys;
+        private List<Entry<K,V>> entrys;//关键字
         /** 内节点的子节点 */
-        private List<BTreeNode<K, V>> children;
+        private List<BTreeNode<K, V>> children;//子女
         /** 是否为叶子节点 */
         private boolean leaf;
         /** 键的比较函数对象 */

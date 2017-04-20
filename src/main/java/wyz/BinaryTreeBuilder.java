@@ -27,7 +27,7 @@ public class BinaryTreeBuilder {
      * @return 子树的根节点
      */
     public static Node buildTree(char[] preOrder, int start,
-                                 char[] inOrder, int end, int length) {
+                                           char[] inOrder, int end, int length) {
         //参数验证
         if (preOrder == null || preOrder.length == 0 || inOrder == null
                 || inOrder.length == 0 || length <= 0) {
@@ -36,7 +36,7 @@ public class BinaryTreeBuilder {
 
         //建立子树根节点
         char value = preOrder[start];
-        Node root = new Node();
+         Node root = new Node();
         root.value = value;
 
         //递归终止条件：子树只有一个节点
@@ -182,7 +182,7 @@ public class BinaryTreeBuilder {
     /*
     * 包括左右子树相等或者左右互换
     * */
-    public static boolean compareTree_1(Node root1,Node root2){
+    public static boolean compareTree_1(Node root1, Node root2){
         if(root1==null && root2==null)
             return true;
 
