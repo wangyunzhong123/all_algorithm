@@ -1,5 +1,7 @@
 package wyz;
 
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Scanner;
 
 /**
@@ -60,7 +62,10 @@ public class Test4 {
             System.out.println("eeee");
         }
 
+        Map map = new HashMap();
+
         return 0;
     }
 
 }
+

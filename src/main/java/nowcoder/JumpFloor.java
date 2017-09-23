@@ -1,5 +1,7 @@
 package nowcoder;
 
+import java.util.concurrent.Executors;
+
 /**
  * Created by tianxi on 4/14/17.
  */
@@ -74,6 +76,8 @@ public class JumpFloor {
     public static void main(String[] args){
         int n = 12;
         System.out.println(JumpFloorII(3));
+
+        Executors.newCachedThreadPool();
     }
 
 }

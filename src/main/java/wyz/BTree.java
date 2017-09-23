@@ -237,7 +237,7 @@ public class BTree<K, V>
          * 你需要自己保证给定的索引是合法的。
          *
          * @param index - 给定的索引
-         * @param 给定索引处的项
+         * @param
          */
         public Entry<K, V> removeEntry(int index)
         {
@@ -307,7 +307,7 @@ public class BTree<K, V>
          * 在该节点中给定索引的位置插入给定的项，
          * 你需要自己保证项插入了正确的位置。
          *
-         * @param key - 给定的键值
+         * @param  - 给定的键值
          * @param index - 给定的索引
          */
         public void insertEntry(Entry<K, V> entry, int index)
@@ -556,7 +556,7 @@ public class BTree<K, V>
      *
      * @param key - 键
      * @param value - 值
-     * @param true，如果B树中不存在给定的项，否则false
+     * @param ，如果B树中不存在给定的项，否则false
      */
     public boolean insert(K key, V value)
     {
