@@ -76,14 +76,11 @@ class parent extends haha{
     public int c;
     int d;
 
-
-
-    private PrintTmp p1 = new PrintTmp("Parent Instance Member");
-
     {
         System.out.println("Parent Instance Code");
     }
 
+    private PrintTmp p1 = new PrintTmp("Parent Instance Member");
 
     private static PrintTmp p2 = new PrintTmp("Parent Static Member");
 
