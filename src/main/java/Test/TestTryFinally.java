@@ -10,6 +10,8 @@ public class TestTryFinally {
     public static void main(String[] args) {
         System.out.println(test());
         System.out.println(s);
+
+        Object a = new Object();
     }
     private static String test(){
 

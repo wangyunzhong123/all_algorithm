@@ -1,88 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="467d1586-1a2c-4658-a085-4a2d00b32467" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Amazon/Test_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Dajiang/Test2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Dajiang/Test_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Dajiang/Test_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Dajiang/Test_3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Dajiang/Test_4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Dajiang/Test_5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Didi/Test_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Didi/Test_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Hikvison/Test_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Hikvison/Test_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Huawei/Test_3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/IFlyTek/Test_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/IFlyTek/Test_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/IFlyTek/Test_2_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/IFlyTek/Test_3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Jingdong/Test_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Jingdong/Test_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Jingdong/Test_2_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/MeiliLinahe/MeiliLianhe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/MeiliLinahe/Test_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Neteasy/Test_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Neteasy/Test_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Neteasy/Test_3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Neteasy/Test_3_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/OnlineCode/Baidu/Test1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Qunar/Test_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Qunar/Test_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Qunar/Test_3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Qunar/Test_4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Sogou/Test_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Toutiao/Test_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Toutiao/Test_3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Xiaomi/Test_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Zhongxing/Test_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Zhongxing/Test_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/util/InnerClassTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/wyz/EDI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/wyz/Test5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/wyz/maze.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ThoughtWorks/IndexTest.java" />
+    <list default="true" id="467d1586-1a2c-4658-a085-4a2d00b32467" name="Default" comment="增加LeetCode每日一题">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_7_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_15_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_15_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_15_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_15_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_15_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_15_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_2_0_8_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_stream_2_0_8_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_cache_cache_api_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_6_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_openhft_zero_allocation_hashing_0_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_bean_3_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_3_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_redisson_redisson_3_5_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LeetCode/Solution_1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LeetCode/Solution_2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LeetCode/Solution_53.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LeetCode/Solution_7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LeetCode/Solution_88.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Test/ArrayListTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Test/JStackDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Test/ThreadLocalTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/EveryDayLeetCode/Solution_1.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/nowcoder/JumpFloor.class" afterPath="$PROJECT_DIR$/target/classes/nowcoder/JumpFloor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/util/Data.class" afterPath="$PROJECT_DIR$/target/classes/util/Data.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/AVLTree$AVLTreeNode.class" afterPath="$PROJECT_DIR$/target/classes/wyz/AVLTree$AVLTreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/AVLTree.class" afterPath="$PROJECT_DIR$/target/classes/wyz/AVLTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/App.class" afterPath="$PROJECT_DIR$/target/classes/wyz/App.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/BTree$1.class" afterPath="$PROJECT_DIR$/target/classes/wyz/BTree$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/BTree$BTreeNode.class" afterPath="$PROJECT_DIR$/target/classes/wyz/BTree$BTreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/BTree$Entry.class" afterPath="$PROJECT_DIR$/target/classes/wyz/BTree$Entry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/BTree$SearchResult.class" afterPath="$PROJECT_DIR$/target/classes/wyz/BTree$SearchResult.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/BTree.class" afterPath="$PROJECT_DIR$/target/classes/wyz/BTree.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/BellmanFord$1.class" afterPath="$PROJECT_DIR$/target/classes/wyz/BellmanFord$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/BellmanFord$Edge.class" afterPath="$PROJECT_DIR$/target/classes/wyz/BellmanFord$Edge.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/BellmanFord$InputResult.class" afterPath="$PROJECT_DIR$/target/classes/wyz/BellmanFord$InputResult.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/BellmanFord.class" afterPath="$PROJECT_DIR$/target/classes/wyz/BellmanFord.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/BigIntMultiply.class" afterPath="$PROJECT_DIR$/target/classes/wyz/BigIntMultiply.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/BinarySeach.class" afterPath="$PROJECT_DIR$/target/classes/wyz/BinarySeach.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/BinarySearchTree$TreeNode.class" afterPath="$PROJECT_DIR$/target/classes/wyz/BinarySearchTree$TreeNode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/BinarySearchTree.class" afterPath="$PROJECT_DIR$/target/classes/wyz/BinarySearchTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/BinaryTreeBuilder.class" afterPath="$PROJECT_DIR$/target/classes/wyz/BinaryTreeBuilder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/BinaryTreeBuilder_1.class" afterPath="$PROJECT_DIR$/target/classes/wyz/BinaryTreeBuilder_1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/DFS_BFS.class" afterPath="$PROJECT_DIR$/target/classes/wyz/DFS_BFS.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Dad.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Dad.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/DijkstraList$1.class" afterPath="$PROJECT_DIR$/target/classes/wyz/DijkstraList$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/DijkstraList$EData.class" afterPath="$PROJECT_DIR$/target/classes/wyz/DijkstraList$EData.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/DijkstraList$ENode.class" afterPath="$PROJECT_DIR$/target/classes/wyz/DijkstraList$ENode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/DijkstraList$VNode.class" afterPath="$PROJECT_DIR$/target/classes/wyz/DijkstraList$VNode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/DijkstraList.class" afterPath="$PROJECT_DIR$/target/classes/wyz/DijkstraList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/DijkstraMatrix$EData.class" afterPath="$PROJECT_DIR$/target/classes/wyz/DijkstraMatrix$EData.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/DijkstraMatrix.class" afterPath="$PROJECT_DIR$/target/classes/wyz/DijkstraMatrix.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Edge.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Edge.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/FibHeap$FibNode.class" afterPath="$PROJECT_DIR$/target/classes/wyz/FibHeap$FibNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/FibHeap.class" afterPath="$PROJECT_DIR$/target/classes/wyz/FibHeap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/FibonHeap.class" afterPath="$PROJECT_DIR$/target/classes/wyz/FibonHeap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/FibonNode.class" afterPath="$PROJECT_DIR$/target/classes/wyz/FibonNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Floyd.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Floyd.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/HeapSort.class" afterPath="$PROJECT_DIR$/target/classes/wyz/HeapSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/HeapSortDesc.class" afterPath="$PROJECT_DIR$/target/classes/wyz/HeapSortDesc.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/HuffmanCode.class" afterPath="$PROJECT_DIR$/target/classes/wyz/HuffmanCode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/HuffmanCoding$HNode.class" afterPath="$PROJECT_DIR$/target/classes/wyz/HuffmanCoding$HNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/HuffmanCoding$Node.class" afterPath="$PROJECT_DIR$/target/classes/wyz/HuffmanCoding$Node.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/HuffmanCoding.class" afterPath="$PROJECT_DIR$/target/classes/wyz/HuffmanCoding.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/HuffmanTree$Node.class" afterPath="$PROJECT_DIR$/target/classes/wyz/HuffmanTree$Node.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/HuffmanTree.class" afterPath="$PROJECT_DIR$/target/classes/wyz/HuffmanTree.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/InsertSort.class" afterPath="$PROJECT_DIR$/target/classes/wyz/InsertSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Johnson$Elem.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Johnson$Elem.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Johnson.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Johnson.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/KMP.class" afterPath="$PROJECT_DIR$/target/classes/wyz/KMP.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Knapsack_0_1_DP.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Knapsack_0_1_DP.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/LCSLength.class" afterPath="$PROJECT_DIR$/target/classes/wyz/LCSLength.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/MSTKruskal.class" afterPath="$PROJECT_DIR$/target/classes/wyz/MSTKruskal.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/MSTPrim$1.class" afterPath="$PROJECT_DIR$/target/classes/wyz/MSTPrim$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/MSTPrim$EData.class" afterPath="$PROJECT_DIR$/target/classes/wyz/MSTPrim$EData.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/MSTPrim$ENode.class" afterPath="$PROJECT_DIR$/target/classes/wyz/MSTPrim$ENode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/MSTPrim$VNode.class" afterPath="$PROJECT_DIR$/target/classes/wyz/MSTPrim$VNode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/MSTPrim.class" afterPath="$PROJECT_DIR$/target/classes/wyz/MSTPrim.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/MST_MatrixUDG$EData.class" afterPath="$PROJECT_DIR$/target/classes/wyz/MST_MatrixUDG$EData.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/MST_MatrixUDG.class" afterPath="$PROJECT_DIR$/target/classes/wyz/MST_MatrixUDG.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/MatrixChainOrder.class" afterPath="$PROJECT_DIR$/target/classes/wyz/MatrixChainOrder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/MaxSubSum.class" afterPath="$PROJECT_DIR$/target/classes/wyz/MaxSubSum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/MergeSort.class" afterPath="$PROJECT_DIR$/target/classes/wyz/MergeSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Money_DP.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Money_DP.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Money_DP_2.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Money_DP_2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Node.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Node.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Pokerr$Card.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Pokerr$Card.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Pokerr.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Pokerr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/QuickSort.class" afterPath="$PROJECT_DIR$/target/classes/wyz/QuickSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/RBTree$RBTNode.class" afterPath="$PROJECT_DIR$/target/classes/wyz/RBTree$RBTNode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/RBTree.class" afterPath="$PROJECT_DIR$/target/classes/wyz/RBTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/RuntimeConstantPoolOOM.class" afterPath="$PROJECT_DIR$/target/classes/wyz/RuntimeConstantPoolOOM.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/SOn.class" afterPath="$PROJECT_DIR$/target/classes/wyz/SOn.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/SelectSort.class" afterPath="$PROJECT_DIR$/target/classes/wyz/SelectSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Test.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Test2$X.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Test2$X.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Test2.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Test2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Test3.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Test3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Test4.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Test4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/TestIntegerCache.class" afterPath="$PROJECT_DIR$/target/classes/wyz/TestIntegerCache.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort$1.class" afterPath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort$ENode.class" afterPath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort$ENode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort$VNode.class" afterPath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort$VNode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort.class" afterPath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort_1$Color.class" afterPath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort_1$Color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort_1$Graph.class" afterPath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort_1$Graph.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort_1$TimeRecorder.class" afterPath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort_1$TimeRecorder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort_1$Vertex.class" afterPath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort_1$Vertex.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort_1.class" afterPath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort_1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort_DFS.class" afterPath="$PROJECT_DIR$/target/classes/wyz/TopologicalSort_DFS.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/TreeNode.class" afterPath="$PROJECT_DIR$/target/classes/wyz/TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/TreeSetTest.class" afterPath="$PROJECT_DIR$/target/classes/wyz/TreeSetTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Word_Break.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Word_Break.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/Word_Break_2.class" afterPath="$PROJECT_DIR$/target/classes/wyz/Word_Break_2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wyz/base.class" afterPath="$PROJECT_DIR$/target/classes/wyz/base.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wyz/AVLTreeTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wyz/AVLTreeTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wyz/AppTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wyz/AppTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wyz/FibHeapTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wyz/FibHeapTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wyz/FibonHeapTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wyz/FibonHeapTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wyz/HeapSortDescTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wyz/HeapSortDescTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wyz/HeapSortTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wyz/HeapSortTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wyz/InsertSortTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wyz/InsertSortTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wyz/Knapsack_0_1_DPTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wyz/Knapsack_0_1_DPTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wyz/LCSLengthTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wyz/LCSLengthTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wyz/MSTKruskalTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wyz/MSTKruskalTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wyz/MatrixChainOrderTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wyz/MatrixChainOrderTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wyz/MaxSubSumTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wyz/MaxSubSumTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wyz/MergeSortTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wyz/MergeSortTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wyz/PokerrTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wyz/PokerrTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wyz/QuickSortTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wyz/QuickSortTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wyz/RBTreeTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wyz/RBTreeTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/nowcoder/JumpFloor.java" afterPath="$PROJECT_DIR$/src/main/java/nowcoder/JumpFloor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/wyz/BTree.java" afterPath="$PROJECT_DIR$/src/main/java/wyz/BTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/wyz/Test4.java" afterPath="$PROJECT_DIR$/src/main/java/wyz/Test4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/算法实现.iml" afterPath="$PROJECT_DIR$/算法实现.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Test/TestTryFinally.java" afterPath="$PROJECT_DIR$/src/main/java/Test/TestTryFinally.java" />
     </list>
     <ignored path="各类算法实现.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,6 +158,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/$ThreadTest.coverage" NAME="ThreadTest Coverage Results" MODIFIED="1553690030495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>FindWork.*</FILTER>
+    </SUITE>
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -105,123 +172,208 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/wyz/Test4.java">
+      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/wyz/Test5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="67" column="32" lean-forward="false" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#761#762#0" expanded="true" />
-                <element signature="e#813#814#0" expanded="true" />
-                <element signature="e#2186#2187#0" expanded="true" />
-                <element signature="e#2241#2242#0" expanded="true" />
-                <element signature="e#2386#2387#0" expanded="true" />
-                <element signature="e#2428#2429#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="2174" column="48" lean-forward="false" selection-start-line="2174" selection-start-column="26" selection-end-line="2174" selection-end-column="48" />
-              <folding>
-                <element signature="e#58809#58810#0" expanded="true" />
-                <element signature="e#58891#58892#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test_1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Qunar/Test_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="39" column="39" lean-forward="true" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test_2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Qunar/Test_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="103" column="20" lean-forward="true" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
+            <state relative-caret-position="20">
+              <caret line="745" column="19" lean-forward="false" selection-start-line="745" selection-start-column="16" selection-end-line="745" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test_3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Qunar/Test_3.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="299">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution_53.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Solution_53.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="44" column="19" lean-forward="false" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution_1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Solution_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcurrentHashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18520">
+              <caret line="1004" column="13" lean-forward="false" selection-start-line="1004" selection-start-column="13" selection-end-line="1004" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#262622#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#30335#30336#0" expanded="false" />
+                <element signature="e#30400#30401#0" expanded="false" />
+                <element signature="e#32334#32335#0" expanded="false" />
+                <element signature="e#32385#32386#0" expanded="false" />
+                <element signature="e#39094#39095#0" expanded="false" />
+                <element signature="e#39146#39147#0" expanded="false" />
+                <element signature="e#40959#40960#0" expanded="false" />
+                <element signature="e#41034#41035#0" expanded="false" />
+                <element signature="e#42680#42681#0" expanded="false" />
+                <element signature="e#42719#42720#0" expanded="false" />
+                <element signature="e#44347#44348#0" expanded="false" />
+                <element signature="e#44395#44396#0" expanded="false" />
+                <element signature="e#48122#48123#0" expanded="false" />
+                <element signature="e#48173#48174#0" expanded="false" />
+                <element signature="e#65240#65241#0" expanded="false" />
+                <element signature="e#65287#65288#0" expanded="false" />
+                <element signature="e#88654#88655#0" expanded="false" />
+                <element signature="e#88697#88698#0" expanded="false" />
+                <element signature="e#93306#93307#0" expanded="false" />
+                <element signature="e#93363#93364#0" expanded="false" />
+                <element signature="e#93406#93407#0" expanded="false" />
+                <element signature="e#93441#93442#0" expanded="false" />
+                <element signature="e#93710#93711#0" expanded="false" />
+                <element signature="e#93797#93798#0" expanded="false" />
+                <element signature="e#112403#112404#0" expanded="false" />
+                <element signature="e#112458#112459#0" expanded="false" />
+                <element signature="e#117483#117484#0" expanded="false" />
+                <element signature="e#117520#117521#0" expanded="false" />
+                <element signature="e#146809#146810#0" expanded="false" />
+                <element signature="e#146884#146885#0" expanded="false" />
+                <element signature="e#192348#192349#0" expanded="false" />
+                <element signature="e#192399#192400#0" expanded="false" />
+                <element signature="e#193040#193041#0" expanded="false" />
+                <element signature="e#193105#193106#0" expanded="false" />
+                <element signature="e#193170#193171#0" expanded="false" />
+                <element signature="e#193235#193236#0" expanded="false" />
+                <element signature="e#195463#195464#0" expanded="false" />
+                <element signature="e#195545#195546#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MeiliLianhe.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MeiliLinahe/MeiliLianhe.java">
+      <file leaf-file-name="Solution_7.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Solution_7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="183">
+              <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution_88.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Solution_88.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution_2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Solution_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="478">
+              <caret line="40" column="22" lean-forward="false" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1480">
+              <caret line="97" column="26" lean-forward="false" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#3888#0" expanded="false" />
+                <element signature="e#2838#2839#0" expanded="false" />
+                <element signature="e#2872#2873#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test_1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MeiliLinahe/Test_1.java">
+      <file leaf-file-name="Vector.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Vector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test_4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Qunar/Test_4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="765" column="0" lean-forward="false" selection-start-line="765" selection-start-column="0" selection-end-line="765" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="1140">
+              <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#53988#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#5447#5448#0" expanded="false" />
+                <element signature="e#5487#5488#0" expanded="false" />
+                <element signature="e#5671#5672#0" expanded="false" />
+                <element signature="e#5695#5696#0" expanded="false" />
+                <element signature="e#7119#7120#0" expanded="false" />
+                <element signature="e#7193#7194#0" expanded="false" />
+                <element signature="e#11481#11482#0" expanded="false" />
+                <element signature="e#11522#11523#0" expanded="false" />
+                <element signature="e#11695#11696#0" expanded="false" />
+                <element signature="e#11730#11731#0" expanded="false" />
+                <element signature="e#12004#12005#0" expanded="false" />
+                <element signature="e#12044#12045#0" expanded="false" />
+                <element signature="e#12576#12577#0" expanded="false" />
+                <element signature="e#12635#12636#0" expanded="false" />
+                <element signature="e#13443#13444#0" expanded="false" />
+                <element signature="e#13484#13485#0" expanded="false" />
+                <element signature="e#14072#14073#0" expanded="false" />
+                <element signature="e#14108#14109#0" expanded="false" />
+                <element signature="e#15956#15957#0" expanded="false" />
+                <element signature="e#16009#16010#0" expanded="false" />
+                <element signature="e#26120#26121#0" expanded="false" />
+                <element signature="e#26183#26184#0" expanded="false" />
+                <element signature="e#27935#27936#0" expanded="false" />
+                <element signature="e#27980#27981#0" expanded="false" />
+                <element signature="e#30158#30159#0" expanded="false" />
+                <element signature="e#30197#30198#0" expanded="false" />
+                <element signature="e#30749#30750#0" expanded="false" />
+                <element signature="e#30796#30797#0" expanded="false" />
+                <element signature="e#31982#31983#0" expanded="false" />
+                <element signature="e#32017#32018#0" expanded="false" />
+                <element signature="e#32515#32516#0" expanded="false" />
+                <element signature="e#32558#32559#0" expanded="false" />
+                <element signature="e#34479#34480#0" expanded="false" />
+                <element signature="e#34520#34521#0" expanded="false" />
+                <element signature="e#35576#35577#0" expanded="false" />
+                <element signature="e#35617#35618#0" expanded="false" />
+                <element signature="e#37847#37848#0" expanded="false" />
+                <element signature="e#37885#37886#0" expanded="false" />
+                <element signature="e#37995#37996#0" expanded="false" />
+                <element signature="e#38034#38035#0" expanded="false" />
+                <element signature="e#38211#38212#0" expanded="false" />
+                <element signature="e#38250#38251#0" expanded="false" />
+                <element signature="e#42942#42943#0" expanded="false" />
+                <element signature="e#42979#42980#0" expanded="false" />
+                <element signature="e#43292#43293#0" expanded="false" />
+                <element signature="e#43324#43325#0" expanded="false" />
+                <element signature="e#45891#45892#0" expanded="false" />
+                <element signature="e#45933#45934#0" expanded="false" />
+                <element signature="e#45967#45968#0" expanded="false" />
+                <element signature="e#46004#46005#0" expanded="false" />
+                <element signature="e#46042#46043#0" expanded="false" />
+                <element signature="e#46083#46084#0" expanded="false" />
+                <element signature="e#50688#50689#0" expanded="false" />
+                <element signature="e#50756#50757#0" expanded="false" />
+                <element signature="e#53787#53788#0" expanded="false" />
+                <element signature="e#53845#53846#0" expanded="false" />
+                <element signature="e#53885#53886#0" expanded="false" />
+                <element signature="e#53978#53979#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -237,6 +389,33 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mul</find>
+      <find>multi</find>
+      <find>set</find>
+      <find>setnx</find>
+      <find>pfadd</find>
+      <find>add</find>
+      <find>put</find>
+      <find>contains</find>
+      <find>getQueuedThreads</find>
+      <find>sync</find>
+      <find>Node</find>
+      <find>tryAcquire</find>
+      <find>newCondition</find>
+      <find>tail</find>
+      <find>ThreadLocal</find>
+      <find>inheritableThreadLocals</find>
+      <find>threadLocals</find>
+      <find>target</find>
+      <find>table</find>
+      <find>core</find>
+      <find>corePoolSize</find>
+      <find>ExtensionLoader.getExtensionLoader</find>
+      <find>run</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -248,27 +427,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/wyz/BinaryTreeBuilder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/BPlusTree/B.java" />
-        <option value="$PROJECT_DIR$/src/main/java/BPlusTree/Node.java" />
-        <option value="$PROJECT_DIR$/src/main/java/BPlusTree/BplusTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/BPlusTree_1/BplusTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/BPlusTree_1/BplusNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/wyz/BTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/OnlineCode/Baidu/Test1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Dajiang/Test2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Dajiang/Test_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Dajiang/Test_4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Dajiang/Test_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Dajiang/Test_3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Huawei/Test_3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Dajiang/Test_5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Zhongxing/Test_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Zhongxing/Test_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Sogou/Test_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Jingdong/Test_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Jingdong/Test_2_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Jingdong/Test_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/Neteasy/Test_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/Neteasy/Test_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Neteasy/Test_3.java" />
@@ -295,10 +453,31 @@
         <option value="$PROJECT_DIR$/src/main/java/Qunar/Test_4.java" />
         <option value="$PROJECT_DIR$/src/main/java/Qunar/Test_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/wyz/Test4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/wyz/Test5.java" />
         <option value="$PROJECT_DIR$/src/main/java/Qunar/Test_3.java" />
         <option value="$PROJECT_DIR$/src/main/java/MeiliLianhe.java" />
         <option value="$PROJECT_DIR$/src/main/java/MeiliLinahe/MeiliLianhe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wyz/Test5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wyz/TestClassAndStatic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wyz/BTreeInOrderNoRecursion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wyz/Test6.java" />
+        <option value="$PROJECT_DIR$/src/test/java/wyz/NimGameTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wyz/NimGame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JedisTest/JedisTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/FindWork/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FindWork/JUSetTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FindWork/StringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FindWork/JUCTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EveryDayLeetCode/Solution_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EveryDayLeetCode/Solution_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/TestTryFinally.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LeetCode/Solution_7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/ThreadLocalTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/JStackDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/ArrayListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LeetCode/Solution_53.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LeetCode/Solution_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LeetCode/Solution_88.java" />
       </list>
     </option>
   </component>
@@ -315,11 +494,53 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="algorithm" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="algorithm" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="algorithm" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="30" />
-    <option name="y" value="22" />
+    <option name="y" value="23" />
     <option name="width" value="1410" />
-    <option name="height" value="878" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -347,7 +568,9 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -374,6 +597,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="各类算法实现" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="all_algorithm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -436,59 +669,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wyz" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="各类算法实现" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all_algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MeiliLinahe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="各类算法实现" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all_algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Didi" />
+              <option name="myItemId" value="LeetCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -497,7 +678,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -509,8 +690,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="ThoughtWorks" />
       <recent name="wyz" />
+      <recent name="ThoughtWorks" />
       <recent name="" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -530,15 +711,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MeiliLianhe">
-    <configuration default="false" name="Test_2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Solution_7">
+    <configuration default="false" name="ThreadLocalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Qunar.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Qunar.Test_2" />
+      <option name="MAIN_CLASS_NAME" value="Test.ThreadLocalTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -551,14 +732,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Test_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Solution_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Qunar.*" />
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Qunar.Test_4" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Solution_7" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -571,14 +752,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Test_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Qunar.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Qunar.Test_3" />
+      <option name="MAIN_CLASS_NAME" value="Test.ArrayListTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -591,19 +772,19 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="JStackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="wyz.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="wyz.Test5" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="MAIN_CLASS_NAME" value="Test.JStackDemo" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -611,9 +792,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="MeiliLianhe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MeiliLinahe.MeiliLianhe" />
+    <configuration default="false" name="Solution_53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Solution_53" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1037,19 +1223,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test_2 (2)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test_4" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test_3" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Test5" />
-      <item index="5" class="java.lang.String" itemvalue="Application.MeiliLianhe" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ThreadLocalTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Solution_7" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ArrayListTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.JStackDemo" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Solution_53" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MeiliLianhe" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test5" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test_3" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test_2 (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test_4" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Solution_7" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Solution_53" />
+        <item index="2" class="java.lang.String" itemvalue="Application.JStackDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ArrayListTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ThreadLocalTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1079,23 +1265,43 @@
       <workItem from="1504668967106" duration="45000" />
       <workItem from="1504696689710" duration="4863000" />
       <workItem from="1504789750122" duration="70418000" />
-      <workItem from="1505735039915" duration="14920000" />
+      <workItem from="1505735039915" duration="21016000" />
+      <workItem from="1506583666476" duration="522000" />
+      <workItem from="1509948896883" duration="6000" />
+      <workItem from="1510212633576" duration="17126000" />
+      <workItem from="1513048626349" duration="1003000" />
+      <workItem from="1535728452440" duration="21000" />
+      <workItem from="1553394078586" duration="2483000" />
+      <workItem from="1553476674291" duration="13252000" />
+      <workItem from="1553784661121" duration="13492000" />
+      <workItem from="1554680964907" duration="2235000" />
+      <workItem from="1554957160673" duration="4575000" />
     </task>
+    <task id="LOCAL-00001" summary="增加2017秋招一些公司在线编程题">
+      <created>1506164668980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1506164668980</updated>
+    </task>
+    <task id="LOCAL-00002" summary="二叉树的非递归遍历">
+      <created>1506260100706</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1506260100706</updated>
+    </task>
+    <task id="LOCAL-00003" summary="增加LeetCode每日一题">
+      <created>1553864866909</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553864866909</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IndexTest - 2017.09.10 at 16h 58m 50s.xml">
-      <configuration name="IndexTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IndexTest - 2017.09.10 at 16h 58m 55s.xml">
-      <configuration name="IndexTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IndexTest - 2017.09.10 at 22h 32m 07s.xml">
-      <configuration name="IndexTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IndexTest - 2017.09.10 at 22h 33m 06s.xml">
-      <configuration name="IndexTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="IndexTest - 2017.09.10 at 22h 33m 22s.xml">
       <configuration name="IndexTest" configurationId="JUnit" />
     </history-entry>
@@ -1114,9 +1320,21 @@
     <history-entry file="IndexTest - 2017.09.11 at 10h 41m 00s.xml">
       <configuration name="IndexTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="NimGameTest_ifGreatHelf - 2017.11.09 at 16h 36m 23s.xml">
+      <configuration name="NimGameTest.ifGreatHelf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NimGameTest_ifGreatHelf - 2017.11.09 at 16h 36m 37s.xml">
+      <configuration name="NimGameTest.ifGreatHelf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NimGameTest_ifGreatHelf - 2017.11.09 at 16h 39m 32s.xml">
+      <configuration name="NimGameTest.ifGreatHelf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NimGameTest_ifGreatHelf - 2017.11.09 at 16h 40m 04s.xml">
+      <configuration name="NimGameTest.ifGreatHelf" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100458000" />
+    <option name="totallyTimeSpent" value="161269000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1128,36 +1346,37 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="22" width="1410" height="878" extended-state="6" />
+    <frame x="30" y="23" width="1410" height="877" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.487021" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48589742" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.496208" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17058097" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21153846" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31767616" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19078015" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20204978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26312056" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27013177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4128554" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42435896" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17484662" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37920937" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1176,15 +1395,15 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26312056" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50061804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.578492" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.368356" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.487021" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36464772" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.496208" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27564895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31767616" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19078015" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1219,256 +1438,61 @@
     <MESSAGE value="增加根据前序和中序 重构二叉树的算法，包括递归和非递归遍历。重构必须要有中序序列，只有前序和后序是不能重构的" />
     <MESSAGE value="增加几种二分查找算法，word-break，TreeSet使用" />
     <MESSAGE value="增加台阶跳跃，递归。增加大数相乘，分治。增加钱币面额组合，动态规划，腾讯一面就跪在这儿了。" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加台阶跳跃，递归。增加大数相乘，分治。增加钱币面额组合，动态规划，腾讯一面就跪在这儿了。" />
+    <MESSAGE value="增加2017秋招一些公司在线编程题" />
+    <MESSAGE value="二叉树的非递归遍历" />
+    <MESSAGE value="增加LeetCode每日一题" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加LeetCode每日一题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/wyz/TopologicalSort_DFS.java</url>
-          <line>59</line>
-          <properties />
-          <option name="timeStamp" value="39" />
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/wyz/TestClassAndStatic.java</url>
+          <line>7</line>
+          <properties field="test" class="wyz.TestClassAndStatic" />
+          <option name="timeStamp" value="97" />
         </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/wyz/Word_Break.java</url>
-          <line>113</line>
-          <properties />
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/wyz/TreeSetTest.java</url>
-          <line>71</line>
-          <properties />
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/wyz/TreeSetTest.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Dajiang/Test_1.java</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Huawei/Test_3.java</url>
-          <line>51</line>
-          <properties />
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Huawei/Test_3.java</url>
-          <line>52</line>
-          <properties />
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Huawei/Test_3.java</url>
-          <line>53</line>
-          <properties />
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Huawei/Test_3.java</url>
-          <line>68</line>
-          <properties />
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Dajiang/Test_5.java</url>
-          <line>37</line>
-          <properties />
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Dajiang/Test_5.java</url>
-          <line>206</line>
-          <properties />
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Dajiang/Test_5.java</url>
-          <line>192</line>
-          <properties />
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Dajiang/Test_5.java</url>
-          <line>153</line>
-          <properties />
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Dajiang/Test_5.java</url>
-          <line>165</line>
-          <properties />
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Dajiang/Test_5.java</url>
-          <line>136</line>
-          <properties />
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Dajiang/Test_5.java</url>
-          <line>123</line>
-          <properties />
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Sogou/Test_1.java</url>
-          <line>101</line>
-          <properties />
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Sogou/Test_1.java</url>
-          <line>106</line>
-          <properties />
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java</url>
-          <line>122</line>
-          <properties />
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java</url>
-          <line>129</line>
-          <properties />
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java</url>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/wyz/NimGame.java</url>
           <line>167</line>
           <properties />
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java</url>
-          <line>172</line>
-          <properties />
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java</url>
-          <line>397</line>
-          <properties />
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java</url>
-          <line>399</line>
-          <properties />
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java</url>
-          <line>339</line>
-          <properties />
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java</url>
-          <line>341</line>
-          <properties />
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java</url>
-          <line>343</line>
-          <properties />
-          <option name="timeStamp" value="75" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java</url>
-          <line>75</line>
-          <properties />
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java</url>
-          <line>78</line>
-          <properties />
-          <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java</url>
-          <line>81</line>
-          <properties />
-          <option name="timeStamp" value="78" />
+          <option name="timeStamp" value="110" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java</url>
-          <line>318</line>
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/Solution_53.java</url>
+          <line>27</line>
           <properties />
-          <option name="timeStamp" value="82" />
+          <option name="timeStamp" value="111" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java</url>
-          <line>320</line>
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/Solution_53.java</url>
+          <line>29</line>
           <properties />
-          <option name="timeStamp" value="83" />
+          <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java</url>
-          <line>352</line>
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/Solution_53.java</url>
+          <line>30</line>
           <properties />
-          <option name="timeStamp" value="84" />
+          <option name="timeStamp" value="113" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/wyz/EDI.java</url>
-          <line>46</line>
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/Solution_53.java</url>
+          <line>37</line>
           <properties />
-          <option name="timeStamp" value="85" />
+          <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/wyz/EDI.java</url>
-          <line>48</line>
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/Solution_53.java</url>
+          <line>34</line>
           <properties />
-          <option name="timeStamp" value="86" />
+          <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/wyz/EDI.java</url>
-          <line>51</line>
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode/Solution_53.java</url>
+          <line>35</line>
           <properties />
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/wyz/EDI.java</url>
-          <line>53</line>
-          <properties />
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/wyz/EDI.java</url>
-          <line>55</line>
-          <properties />
-          <option name="timeStamp" value="90" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/wyz/EDI.java</url>
-          <line>57</line>
-          <properties />
-          <option name="timeStamp" value="91" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Qunar/Test_2.java</url>
-          <line>44</line>
-          <properties />
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Qunar/Test_2.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="96" />
+          <option name="timeStamp" value="116" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -1479,120 +1503,441 @@
           <properties />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="97" />
+      <option name="time" value="117" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="node1" language="JAVA" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/InnerClassTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/redisson/redisson/3.5.4/redisson-3.5.4.jar!/org/redisson/RedissonMultiLock.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state relative-caret-position="4000">
+          <caret line="216" column="21" lean-forward="false" selection-start-line="216" selection-start-column="21" selection-end-line="216" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wyz/SelectSort.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/LockSupport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1231">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="-5052">
+          <caret line="119" column="13" lean-forward="false" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wyz/maze.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Condition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="43" column="20" lean-forward="false" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="-5686">
+          <caret line="178" column="17" lean-forward="false" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wyz/AVLTree.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="84">
+          <caret line="155" column="13" lean-forward="false" selection-start-line="155" selection-start-column="13" selection-end-line="155" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wyz/BellmanFord.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-340">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="454">
+          <caret line="355" column="26" lean-forward="false" selection-start-line="355" selection-start-column="14" selection-end-line="355" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/JumpFloor.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReadWriteLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="79" column="26" lean-forward="true" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+        <state relative-caret-position="344">
+          <caret line="125" column="0" lean-forward="true" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinPool.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49420">
-          <caret line="2531" column="11" lean-forward="false" selection-start-line="2531" selection-start-column="11" selection-end-line="2531" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="233">
+          <caret line="305" column="32" lean-forward="false" selection-start-line="305" selection-start-column="32" selection-end-line="305" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="72" column="25" lean-forward="false" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="1197" column="16" lean-forward="true" selection-start-line="1197" selection-start-column="16" selection-end-line="1197" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="208" column="20" lean-forward="true" selection-start-line="208" selection-start-column="20" selection-end-line="208" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="884" column="23" lean-forward="true" selection-start-line="884" selection-start-column="23" selection-end-line="884" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FindWork/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="135" column="13" lean-forward="false" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7840">
+          <caret line="425" column="8" lean-forward="false" selection-start-line="425" selection-start-column="8" selection-end-line="425" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#91089#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#12815#12816#0" expanded="false" />
+            <element signature="e#12893#12894#0" expanded="false" />
+            <element signature="e#19072#19073#0" expanded="false" />
+            <element signature="e#19130#19131#0" expanded="false" />
+            <element signature="e#19296#19297#0" expanded="false" />
+            <element signature="e#19379#19380#0" expanded="false" />
+            <element signature="e#21076#21077#0" expanded="false" />
+            <element signature="e#21103#21104#0" expanded="false" />
+            <element signature="e#21303#21304#0" expanded="false" />
+            <element signature="e#21335#21336#0" expanded="false" />
+            <element signature="e#23597#23598#0" expanded="false" />
+            <element signature="e#23651#23652#0" expanded="false" />
+            <element signature="e#24298#24299#0" expanded="false" />
+            <element signature="e#24363#24364#0" expanded="false" />
+            <element signature="e#31026#31027#0" expanded="false" />
+            <element signature="e#31064#31065#0" expanded="false" />
+            <element signature="e#36156#36157#0" expanded="false" />
+            <element signature="e#36240#36241#0" expanded="false" />
+            <element signature="e#36292#36293#0" expanded="false" />
+            <element signature="e#36370#36371#0" expanded="false" />
+            <element signature="e#38365#38366#0" expanded="false" />
+            <element signature="e#38445#38446#0" expanded="false" />
+            <element signature="e#40325#40326#0" expanded="false" />
+            <element signature="e#40375#40376#0" expanded="false" />
+            <element signature="e#42095#42096#0" expanded="false" />
+            <element signature="e#42159#42160#0" expanded="false" />
+            <element signature="e#42228#42229#0" expanded="false" />
+            <element signature="e#42304#42305#0" expanded="false" />
+            <element signature="e#55067#55068#0" expanded="false" />
+            <element signature="e#55110#55111#0" expanded="false" />
+            <element signature="e#63149#63150#0" expanded="false" />
+            <element signature="e#63234#63235#0" expanded="false" />
+            <element signature="e#66531#66532#0" expanded="false" />
+            <element signature="e#66588#66589#0" expanded="false" />
+            <element signature="e#66702#66703#0" expanded="false" />
+            <element signature="e#66765#66766#0" expanded="false" />
+            <element signature="e#68631#68632#0" expanded="false" />
+            <element signature="e#68682#68683#0" expanded="false" />
+            <element signature="e#71254#71255#0" expanded="false" />
+            <element signature="e#71336#71337#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1220">
+          <caret line="84" column="17" lean-forward="false" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37520">
+          <caret line="2033" column="27" lean-forward="false" selection-start-line="2033" selection-start-column="27" selection-end-line="2033" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="119" column="23" lean-forward="false" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="81" column="13" lean-forward="false" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FindWork/JUSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="79" column="13" lean-forward="false" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FindWork/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FindWork/JUCTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="206" column="15" lean-forward="false" selection-start-line="206" selection-start-column="11" selection-end-line="206" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="55" column="17" lean-forward="false" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="175" column="21" lean-forward="false" selection-start-line="175" selection-start-column="21" selection-end-line="175" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="147" column="19" lean-forward="false" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="false" />
+            <element signature="e#5784#5785#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/TestTryFinally.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1458">
+          <caret line="73" column="13" lean-forward="false" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+          <folding>
+            <element signature="e#3276#3277#0" expanded="false" />
+            <element signature="e#3337#3338#0" expanded="false" />
+            <element signature="e#4309#4310#0" expanded="false" />
+            <element signature="e#4336#4337#0" expanded="false" />
+            <element signature="e#7765#7766#0" expanded="false" />
+            <element signature="e#7802#7803#0" expanded="false" />
+            <element signature="e#8068#8069#0" expanded="false" />
+            <element signature="e#8137#8138#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="61" column="12" lean-forward="false" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="383" column="19" lean-forward="false" selection-start-line="383" selection-start-column="19" selection-end-line="383" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="105" column="13" lean-forward="false" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/RandomAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="66" column="17" lean-forward="false" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="109" column="25" lean-forward="false" selection-start-line="109" selection-start-column="25" selection-end-line="109" selection-end-column="25" />
+        <state relative-caret-position="4740">
+          <caret line="278" column="26" lean-forward="false" selection-start-line="278" selection-start-column="14" selection-end-line="278" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="136" column="17" lean-forward="false" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16720">
+          <caret line="893" column="20" lean-forward="false" selection-start-line="893" selection-start-column="20" selection-end-line="893" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/ThreadLocalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="31" column="15" lean-forward="false" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#372#373#0" expanded="false" />
+            <element signature="e#404#405#0" expanded="false" />
+            <element signature="e#1152#1153#0" expanded="false" />
+            <element signature="e#1195#1196#0" expanded="false" />
+            <element signature="e#1260#1261#0" expanded="false" />
+            <element signature="e#1304#1305#0" expanded="false" />
+            <element signature="e#1371#1372#0" expanded="false" />
+            <element signature="e#1415#1416#0" expanded="false" />
+            <element signature="e#1668#1669#0" expanded="false" />
+            <element signature="e#1711#1712#0" expanded="false" />
+            <element signature="e#1801#1802#0" expanded="false" />
+            <element signature="e#1844#1845#0" expanded="false" />
+            <element signature="e#1920#1921#0" expanded="false" />
+            <element signature="e#1963#1964#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wyz/KMP.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/JStackDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="620">
+          <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wyz/LCSLength.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ServiceLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="3000">
+          <caret line="185" column="26" lean-forward="false" selection-start-line="185" selection-start-column="26" selection-end-line="185" selection-end-column="26" />
           <folding>
-            <element signature="e#908#909#0" expanded="false" />
-            <element signature="e#938#939#0" expanded="false" />
+            <element signature="e#0#22592#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#15884#15885#0" expanded="false" />
+            <element signature="e#15949#15950#0" expanded="false" />
+            <element signature="e#19160#19161#0" expanded="false" />
+            <element signature="e#19233#19234#0" expanded="false" />
+            <element signature="e#22512#22513#0" expanded="false" />
+            <element signature="e#22587#22588#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wyz/EDI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/ArrayListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="700">
+          <caret line="36" column="10" lean-forward="false" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThoughtWorks/Index.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        <state relative-caret-position="7680">
+          <caret line="407" column="7" lean-forward="false" selection-start-line="407" selection-start-column="7" selection-end-line="407" selection-end-column="7" />
           <folding>
+            <element signature="e#0#33182#0" expanded="false" />
+            <element signature="e#33104#33105#0" expanded="false" />
+            <element signature="e#33178#33179#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18520">
+          <caret line="1004" column="13" lean-forward="false" selection-start-line="1004" selection-start-column="13" selection-end-line="1004" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#262622#0" expanded="false" />
             <element signature="imports" expanded="false" />
-            <element signature="method#go_to_cancle#0;class#Index#0" expanded="false" />
-            <element signature="method#money_of_cancle#0;class#Index#0" expanded="false" />
-            <element signature="method#get_weekday_or_weekend#0;class#Index#0" expanded="false" />
-            <element signature="method#getBookInList#0;class#Index#0" expanded="false" />
+            <element signature="e#30335#30336#0" expanded="false" />
+            <element signature="e#30400#30401#0" expanded="false" />
+            <element signature="e#32334#32335#0" expanded="false" />
+            <element signature="e#32385#32386#0" expanded="false" />
+            <element signature="e#39094#39095#0" expanded="false" />
+            <element signature="e#39146#39147#0" expanded="false" />
+            <element signature="e#40959#40960#0" expanded="false" />
+            <element signature="e#41034#41035#0" expanded="false" />
+            <element signature="e#42680#42681#0" expanded="false" />
+            <element signature="e#42719#42720#0" expanded="false" />
+            <element signature="e#44347#44348#0" expanded="false" />
+            <element signature="e#44395#44396#0" expanded="false" />
+            <element signature="e#48122#48123#0" expanded="false" />
+            <element signature="e#48173#48174#0" expanded="false" />
+            <element signature="e#65240#65241#0" expanded="false" />
+            <element signature="e#65287#65288#0" expanded="false" />
+            <element signature="e#88654#88655#0" expanded="false" />
+            <element signature="e#88697#88698#0" expanded="false" />
+            <element signature="e#93306#93307#0" expanded="false" />
+            <element signature="e#93363#93364#0" expanded="false" />
+            <element signature="e#93406#93407#0" expanded="false" />
+            <element signature="e#93441#93442#0" expanded="false" />
+            <element signature="e#93710#93711#0" expanded="false" />
+            <element signature="e#93797#93798#0" expanded="false" />
+            <element signature="e#112403#112404#0" expanded="false" />
+            <element signature="e#112458#112459#0" expanded="false" />
+            <element signature="e#117483#117484#0" expanded="false" />
+            <element signature="e#117520#117521#0" expanded="false" />
+            <element signature="e#146809#146810#0" expanded="false" />
+            <element signature="e#146884#146885#0" expanded="false" />
+            <element signature="e#192348#192349#0" expanded="false" />
+            <element signature="e#192399#192400#0" expanded="false" />
+            <element signature="e#193040#193041#0" expanded="false" />
+            <element signature="e#193105#193106#0" expanded="false" />
+            <element signature="e#193170#193171#0" expanded="false" />
+            <element signature="e#193235#193236#0" expanded="false" />
+            <element signature="e#195463#195464#0" expanded="false" />
+            <element signature="e#195545#195546#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1609,363 +1954,128 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IFlyTek/Test_2.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Vector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1880">
-          <caret line="117" column="27" lean-forward="false" selection-start-line="117" selection-start-column="23" selection-end-line="117" selection-end-column="27" />
+        <state relative-caret-position="1140">
+          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
           <folding>
+            <element signature="e#0#53988#0" expanded="false" />
             <element signature="imports" expanded="false" />
-            <element signature="e#1349#1350#0" expanded="false" />
-            <element signature="e#1376#1377#0" expanded="false" />
-            <element signature="e#1418#1419#0" expanded="false" />
-            <element signature="e#1450#1451#0" expanded="false" />
-            <element signature="e#1481#1482#0" expanded="false" />
-            <element signature="e#1509#1510#0" expanded="false" />
-            <element signature="e#1550#1551#0" expanded="false" />
-            <element signature="e#1584#1585#0" expanded="false" />
-            <element signature="e#1625#1626#0" expanded="false" />
-            <element signature="e#1663#1664#0" expanded="false" />
-            <element signature="e#1724#1725#0" expanded="false" />
-            <element signature="e#1778#1779#0" expanded="false" />
-            <element signature="e#1813#1814#0" expanded="false" />
-            <element signature="e#1845#1846#0" expanded="false" />
-            <element signature="e#1894#1895#0" expanded="false" />
-            <element signature="e#1936#1937#0" expanded="false" />
+            <element signature="e#5447#5448#0" expanded="false" />
+            <element signature="e#5487#5488#0" expanded="false" />
+            <element signature="e#5671#5672#0" expanded="false" />
+            <element signature="e#5695#5696#0" expanded="false" />
+            <element signature="e#7119#7120#0" expanded="false" />
+            <element signature="e#7193#7194#0" expanded="false" />
+            <element signature="e#11481#11482#0" expanded="false" />
+            <element signature="e#11522#11523#0" expanded="false" />
+            <element signature="e#11695#11696#0" expanded="false" />
+            <element signature="e#11730#11731#0" expanded="false" />
+            <element signature="e#12004#12005#0" expanded="false" />
+            <element signature="e#12044#12045#0" expanded="false" />
+            <element signature="e#12576#12577#0" expanded="false" />
+            <element signature="e#12635#12636#0" expanded="false" />
+            <element signature="e#13443#13444#0" expanded="false" />
+            <element signature="e#13484#13485#0" expanded="false" />
+            <element signature="e#14072#14073#0" expanded="false" />
+            <element signature="e#14108#14109#0" expanded="false" />
+            <element signature="e#15956#15957#0" expanded="false" />
+            <element signature="e#16009#16010#0" expanded="false" />
+            <element signature="e#26120#26121#0" expanded="false" />
+            <element signature="e#26183#26184#0" expanded="false" />
+            <element signature="e#27935#27936#0" expanded="false" />
+            <element signature="e#27980#27981#0" expanded="false" />
+            <element signature="e#30158#30159#0" expanded="false" />
+            <element signature="e#30197#30198#0" expanded="false" />
+            <element signature="e#30749#30750#0" expanded="false" />
+            <element signature="e#30796#30797#0" expanded="false" />
+            <element signature="e#31982#31983#0" expanded="false" />
+            <element signature="e#32017#32018#0" expanded="false" />
+            <element signature="e#32515#32516#0" expanded="false" />
+            <element signature="e#32558#32559#0" expanded="false" />
+            <element signature="e#34479#34480#0" expanded="false" />
+            <element signature="e#34520#34521#0" expanded="false" />
+            <element signature="e#35576#35577#0" expanded="false" />
+            <element signature="e#35617#35618#0" expanded="false" />
+            <element signature="e#37847#37848#0" expanded="false" />
+            <element signature="e#37885#37886#0" expanded="false" />
+            <element signature="e#37995#37996#0" expanded="false" />
+            <element signature="e#38034#38035#0" expanded="false" />
+            <element signature="e#38211#38212#0" expanded="false" />
+            <element signature="e#38250#38251#0" expanded="false" />
+            <element signature="e#42942#42943#0" expanded="false" />
+            <element signature="e#42979#42980#0" expanded="false" />
+            <element signature="e#43292#43293#0" expanded="false" />
+            <element signature="e#43324#43325#0" expanded="false" />
+            <element signature="e#45891#45892#0" expanded="false" />
+            <element signature="e#45933#45934#0" expanded="false" />
+            <element signature="e#45967#45968#0" expanded="false" />
+            <element signature="e#46004#46005#0" expanded="false" />
+            <element signature="e#46042#46043#0" expanded="false" />
+            <element signature="e#46083#46084#0" expanded="false" />
+            <element signature="e#50688#50689#0" expanded="false" />
+            <element signature="e#50756#50757#0" expanded="false" />
+            <element signature="e#53787#53788#0" expanded="false" />
+            <element signature="e#53845#53846#0" expanded="false" />
+            <element signature="e#53885#53886#0" expanded="false" />
+            <element signature="e#53978#53979#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IFlyTek/Test_2_2.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IFlyTek/Test_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="34" column="32" lean-forward="false" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IFlyTek/Test_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="716">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        <state relative-caret-position="20">
+          <caret line="745" column="19" lean-forward="false" selection-start-line="745" selection-start-column="16" selection-end-line="745" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Zhongxing/Test_1.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="89" column="23" lean-forward="false" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
+        <state relative-caret-position="299">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Zhongxing/Test_2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Solution_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="234">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Toutiao/Test_1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Solution_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="478">
+          <caret line="40" column="22" lean-forward="false" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Toutiao/Test_3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Solution_7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        <state relative-caret-position="183">
+          <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Sogou/Test_1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Solution_53.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-254">
-          <caret line="63" column="21" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Neteasy/Test_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-244">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="182">
+          <caret line="44" column="19" lean-forward="false" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Neteasy/Test_2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Solution_88.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        <state relative-caret-position="228">
+          <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Neteasy/Test_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Neteasy/Test_3_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Jingdong/Test_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Jingdong/Test_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Jingdong/Test_2_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Huawei/Test_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1224">
-          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Hikvison/Test_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-284">
-          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Hikvison/Test_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Didi/Test_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Didi/Test_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Dajiang/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1005">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Dajiang/Test_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="56" column="5" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="1539" column="0" lean-forward="false" selection-start-line="1539" selection-start-column="0" selection-end-line="1539" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Xiaomi/Test_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#332#346#0" expanded="false" />
-            <element signature="e#489#497#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OnlineCode/Baidu/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-464">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="394" column="26" lean-forward="false" selection-start-line="394" selection-start-column="26" selection-end-line="394" selection-end-column="26" />
-          <folding>
-            <element signature="e#19072#19073#0" expanded="true" />
-            <element signature="e#19130#19131#0" expanded="true" />
-            <element signature="e#19296#19297#0" expanded="true" />
-            <element signature="e#19379#19380#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Qunar/Test_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="39" column="39" lean-forward="true" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Qunar/Test_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wyz/Test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="39" column="4" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="765" column="0" lean-forward="false" selection-start-line="765" selection-start-column="0" selection-end-line="765" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="2174" column="48" lean-forward="false" selection-start-line="2174" selection-start-column="26" selection-end-line="2174" selection-end-column="48" />
-          <folding>
-            <element signature="e#58809#58810#0" expanded="true" />
-            <element signature="e#58891#58892#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wyz/Test5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="67" column="32" lean-forward="false" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#2186#2187#0" expanded="true" />
-            <element signature="e#2241#2242#0" expanded="true" />
-            <element signature="e#2386#2387#0" expanded="true" />
-            <element signature="e#2428#2429#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Qunar/Test_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="103" column="20" lean-forward="true" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Qunar/Test_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MeiliLinahe/Test_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MeiliLinahe/MeiliLianhe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
