@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.Range1_20;
 
 /**
  * Created by yzwang on 2019/3/30.

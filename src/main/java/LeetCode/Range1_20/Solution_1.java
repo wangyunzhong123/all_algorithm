@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.Range1_20;
 
 import java.util.Hashtable;
 import java.util.Map;

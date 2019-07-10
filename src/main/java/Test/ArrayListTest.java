@@ -1,7 +1,9 @@
 package Test;
 
 import java.util.*;
+import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.function.Function;
 
 /**
  * Created by yzwang on 2019/4/3.
@@ -35,6 +37,15 @@ public class ArrayListTest {
         Vector v = new Vector();
         Stack s = new Stack();
         List l = null;
+        HashMap hashMap = null;
+        ArrayBlockingQueue arrayBlockingQueue = null;
+//        Arrays.asList({1,2,4});
+
+        Thread thread = null;
+        thread.start();
+
+        Throwable throwable = null;
+        Function f = null;
         ConcurrentHashMap c = new ConcurrentHashMap();
     }
 }

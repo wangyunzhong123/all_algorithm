@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.Range1_20;
 
 /**
  * Created by yzwang on 2019/4/3.
@@ -55,5 +55,6 @@ public class Solution_7 {
     public static void main(String[] args) {
         System.out.println(reverseInt(1234567899));
         System.out.println(reverseInt2(1234567899));
+        System.out.println(reverseInt2(-1234567));
     }
 }
