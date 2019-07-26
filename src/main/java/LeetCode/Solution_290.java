@@ -36,6 +36,7 @@ public class Solution_290 {
         System.out.println(wordPattern("abba","dog cat cat fish"));
         System.out.println(wordPattern("aaaa","dog cat cat dog"));
         System.out.println(wordPattern("abba","dog dog dog dog"));
+        System.out.println(wordPattern("abba","dog dog dog dog"));
     }
 
     public static boolean wordPattern(String pattern, String str) {
