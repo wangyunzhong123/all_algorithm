@@ -16,6 +16,7 @@ public class MyWebSocketClient extends WebSocketClient{
 
  public MyWebSocketClient(String url) throws URISyntaxException {
   super(new URI(url));
+
  }
 
  @Override

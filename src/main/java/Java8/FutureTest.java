@@ -40,6 +40,7 @@ public class FutureTest {
             }
         };
 
+
         List<Callable<String>> list = new ArrayList<Callable<String>>();
         list.add(c1);
         list.add(c2);
