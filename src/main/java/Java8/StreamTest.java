@@ -16,8 +16,8 @@ public class StreamTest {
         list.add(new User(1, 2));
         list.add(new User(11, 21));
 
-        Map map = list.stream().collect(Collectors.toMap(User::getId, Function.identity()));
-        System.out.println(map);
+//        Map map = list.stream().collect(Collectors.toMap(User::getId, Function.identity()));
+//        System.out.println(map);
 
     }
 
