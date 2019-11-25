@@ -1,9 +1,9 @@
 package LeetCode.Range1_20;
 
+import com.google.common.collect.ImmutableList;
 import org.junit.Test;
 
-import java.util.Hashtable;
-import java.util.Map;
+import java.util.*;
 
 /**
  *
@@ -101,6 +101,47 @@ public class Solution {
             }
             System.out.println();
         }
+        int m = obstacleGrid[0].length;
+        int n = obstacleGrid.length;
+        int[][] dp = new int[n+1][m+1];
+        boolean flag = false;
+        for (int i = 0; i < n; i++) {
+            if (obstacleGrid[i][0] == 1) {
+                flag = true;
+            }else
+                dp[i][0] = 1;
+
+            if (flag) {
+                dp[i][0] = 0;
+            }
+        }
+        flag = false;
+        for (int i = 0; i < m; i++) {
+            if (obstacleGrid[0][i] == 1) {
+                flag = true;
+            } else
+                dp[0][i] = 1;
+            if (flag) {
+                dp[0][i] = 0;
+            }
+        }
+
+        for (int i = 0; i < dp.length; i++) {
+            for (int j = 0; j < dp[i].length; j++) {
+                System.out.print(dp[i][j] + " ");
+            }
+            System.out.println();
+        }
+
+        for (int i = 1; i < n; i++) {
+            for (int j = 1; j < m; j++) {
+                if (obstacleGrid[i][j] == 1) {
+                    dp[i][j] = 0;
+                } else
+                    dp[i][j] = dp[i][j-1] + dp[i-1][j];
+            }
+        }
+        System.out.println(dp[n-1][m-1]);
 
     }
 
@@ -121,5 +162,41 @@ public class Solution {
             }
         }
         System.out.println(dp[n-1][m-1]);
+    }
+
+    // 数塔问题 https://blog.csdn.net/theonegis/article/details/45801201 自底向上
+    @Test
+    public void numberTower() {
+        int[][] data = new int[][]{{9},{12,15},{10,6,8},{2,18,9,5},{19,7,10,4,16}};
+        for (int i = 0; i < data.length; i++) {
+            for (int j = 0; j < data[i].length; j++) {
+                System.out.print(data[i][j] + " ");
+            }
+            System.out.println();
+        }
+
+        // 初始化
+        int n = data.length;
+        int[][] dp = new int[n][n];
+        for (int i = 0; i < n; i++) {
+            dp[n-1][i] = data[n-1][i];
+        }
+
+        for (int i = n-2; i >=0 ; i--) {
+            for (int j = 0; j <= i ; j++) {
+                dp[i][j] = Math.max(dp[i+1][j], dp[i+1][j+1]) + data[i][j];
+            }
+        }
+        System.out.println(dp[0][0]);
+    }
+    // leetcode120 和数塔问题高度相似
+    @Test
+    public void minimumTotal() {
+        List<List<Integer>> triangle = new ArrayList<>();
+        triangle.add(ImmutableList.of(2));
+        triangle.add(ImmutableList.of(3,4));
+        triangle.add(ImmutableList.of(6,5,7));
+        triangle.add(ImmutableList.of(4,1,8,3));
+
     }
 }

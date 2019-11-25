@@ -1,76 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="467d1586-1a2c-4658-a085-4a2d00b32467" name="Default" comment="DP">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Java/ListTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Java/People.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Java/SplitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Java/ThreadLocalTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Java/YellowPeople.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LeetCode/Range1_20/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Netty/encodeTest/ChineseMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Netty/encodeTest/ChineseMessageDecoder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Netty/encodeTest/ChineseMessageEncoder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Netty/encodeTest/ChineseNettyClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Netty/encodeTest/ChineseNettyServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Zookeeper/lock/Locker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Zookeeper/lock/ZkLocker.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_8_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/ThoughtWorks/IndexTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/AVLTreeTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/AppTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/FibHeapTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/FibonHeapTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/HeapSortDescTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/HeapSortTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/InsertSortTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/Knapsack_0_1_DPTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/LCSLengthTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/MSTKruskalTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/MatrixChainOrderTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/MaxSubSumTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/MergeSortTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/NimGameTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/PokerrTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/QuickSortTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/wyz/RBTreeTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/ThoughtWorks/IndexTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/AVLTreeTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/AppTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/FibHeapTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/FibonHeapTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/HeapSortDescTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/HeapSortTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/InsertSortTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/Knapsack_0_1_DPTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/LCSLengthTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/MSTKruskalTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/MatrixChainOrderTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/MaxSubSumTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/MergeSortTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/NimGameTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/PokerrTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/QuickSortTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/wyz/RBTreeTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Java/ConcurrentHashMapTest.class" afterPath="$PROJECT_DIR$/target/classes/Java/ConcurrentHashMapTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Java/Info.class" afterPath="$PROJECT_DIR$/target/classes/Java/Info.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Java/Parent.class" afterPath="$PROJECT_DIR$/target/classes/Java/Parent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Java/Sub.class" afterPath="$PROJECT_DIR$/target/classes/Java/Sub.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Java/SubSub.class" afterPath="$PROJECT_DIR$/target/classes/Java/SubSub.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Java8/StreamTest$User.class" afterPath="$PROJECT_DIR$/target/classes/Java8/StreamTest$User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Java8/StreamTest.class" afterPath="$PROJECT_DIR$/target/classes/Java8/StreamTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/LeetCode/Range1_20/Solution_3.class" afterPath="$PROJECT_DIR$/target/classes/LeetCode/Range1_20/Solution_3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+    <list default="true" id="467d1586-1a2c-4658-a085-4a2d00b32467" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Java/ConcurrentHashMapTest.java" afterPath="$PROJECT_DIR$/src/main/java/Java/ConcurrentHashMapTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Java/StringTest.java" afterPath="$PROJECT_DIR$/src/main/java/Java/StringTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Java/data/Son.java" afterPath="$PROJECT_DIR$/src/main/java/Java/data/Son.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Java/data/Variant.java" afterPath="$PROJECT_DIR$/src/main/java/Java/data/Variant.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Java8/StreamTest.java" afterPath="$PROJECT_DIR$/src/main/java/Java8/StreamTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LeetCode/Range1_20/Solution_3.java" afterPath="$PROJECT_DIR$/src/main/java/LeetCode/Range1_20/Solution_3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/算法实现.iml" afterPath="$PROJECT_DIR$/算法实现.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LeetCode/Range1_20/Solution.java" afterPath="$PROJECT_DIR$/src/main/java/LeetCode/Range1_20/Solution.java" />
     </list>
     <ignored path="各类算法实现.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -98,29 +32,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Collection.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Collection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="600" column="16" lean-forward="false" selection-start-line="600" selection-start-column="16" selection-end-line="600" selection-end-column="16" />
-              <folding>
-                <element signature="e#27751#27752#0" expanded="true" />
-                <element signature="e#27815#27816#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Float.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Float.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="48" column="19" lean-forward="false" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StreamTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Java8/StreamTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -141,21 +52,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Range1_20/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+            <state relative-caret-position="484">
+              <caret line="199" column="8" lean-forward="true" selection-start-line="199" selection-start-column="8" selection-end-line="199" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ImmutableList.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0.jar!/com/google/common/collect/ImmutableList.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="51" column="19" lean-forward="true" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+              <folding>
+                <element signature="e#1361#1362#0" expanded="true" />
+                <element signature="e#1419#1420#0" expanded="true" />
+                <element signature="e#1593#1594#0" expanded="true" />
+                <element signature="e#1651#1652#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingletonImmutableList.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0.jar!/com/google/common/collect/SingletonImmutableList.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding>
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+              <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -184,8 +123,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+            <state relative-caret-position="276">
+              <caret line="106" column="16" lean-forward="false" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -307,9 +246,9 @@
         <option value="$PROJECT_DIR$/src/main/java/Java/data/Son.java" />
         <option value="$PROJECT_DIR$/src/main/java/Java/data/Variant.java" />
         <option value="$PROJECT_DIR$/src/main/java/Java8/StreamTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/LeetCode/Range1_20/Solution.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -451,6 +390,98 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="各类算法实现" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all_algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="各类算法实现" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all_algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="各类算法实现" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all_algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="各类算法实现" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all_algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Range1_20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -492,27 +523,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution.uniquePaths">
-    <configuration default="false" name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.Range1_20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Range1_20.Solution" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="算法实现" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.Solution.numberTower">
     <configuration default="false" name="Solution.jump" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -604,6 +615,32 @@
       <option name="PACKAGE_NAME" value="LeetCode.Range1_20" />
       <option name="MAIN_CLASS_NAME" value="LeetCode.Range1_20.Solution" />
       <option name="METHOD_NAME" value="uniquePaths" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Solution.numberTower" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.Range1_20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="算法实现" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="LeetCode.Range1_20" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Range1_20.Solution" />
+      <option name="METHOD_NAME" value="numberTower" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1050,19 +1087,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Solution" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.Solution.jump" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.Solution.jump2" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.Solution.uniquePathsWithObstacles" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.Solution.uniquePaths" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Solution.jump" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Solution.jump2" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Solution.uniquePathsWithObstacles" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Solution.uniquePaths" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.Solution.numberTower" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Solution.uniquePaths" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Solution.numberTower" />
         <item index="1" class="java.lang.String" itemvalue="JUnit.Solution.uniquePathsWithObstacles" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Solution.jump2" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.Solution.jump" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Solution" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Solution.uniquePaths" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Solution.jump2" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Solution.jump" />
       </list>
     </recent_temporary>
   </component>
@@ -1118,7 +1155,7 @@
       <workItem from="1570802188419" duration="4796000" />
       <workItem from="1571499323753" duration="2833000" />
       <workItem from="1573479543156" duration="1776000" />
-      <workItem from="1574081987689" duration="12252000" />
+      <workItem from="1574081987689" duration="15028000" />
     </task>
     <task id="LOCAL-00001" summary="增加2017秋招一些公司在线编程题">
       <created>1506164668980</created>
@@ -1162,43 +1199,50 @@
       <option name="project" value="LOCAL" />
       <updated>1569771081828</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="DP">
+      <created>1574688702969</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574688702969</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solution_jump - 2019.11.25 at 17h 07m 29s.xml">
-      <configuration name="Solution.jump" configurationId="JUnit" />
+    <history-entry file="Solution_numberTower - 2019.11.25 at 23h 34m 29s.xml">
+      <configuration name="Solution.numberTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_jump2 - 2019.11.25 at 18h 03m 49s.xml">
-      <configuration name="Solution.jump2" configurationId="JUnit" />
+    <history-entry file="Solution_numberTower - 2019.11.25 at 23h 34m 55s.xml">
+      <configuration name="Solution.numberTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_uniquePaths - 2019.11.25 at 21h 11m 51s.xml">
-      <configuration name="Solution.uniquePaths" configurationId="JUnit" />
+    <history-entry file="Solution_numberTower - 2019.11.25 at 23h 35m 18s.xml">
+      <configuration name="Solution.numberTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_uniquePaths - 2019.11.25 at 21h 12m 33s.xml">
-      <configuration name="Solution.uniquePaths" configurationId="JUnit" />
+    <history-entry file="Solution_numberTower - 2019.11.25 at 23h 42m 16s.xml">
+      <configuration name="Solution.numberTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_uniquePaths - 2019.11.25 at 21h 18m 59s.xml">
-      <configuration name="Solution.uniquePaths" configurationId="JUnit" />
+    <history-entry file="Solution_numberTower - 2019.11.25 at 23h 43m 23s.xml">
+      <configuration name="Solution.numberTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_uniquePaths - 2019.11.25 at 21h 19m 44s.xml">
-      <configuration name="Solution.uniquePaths" configurationId="JUnit" />
+    <history-entry file="Solution_numberTower - 2019.11.25 at 23h 44m 37s.xml">
+      <configuration name="Solution.numberTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_uniquePaths - 2019.11.25 at 21h 20m 00s.xml">
-      <configuration name="Solution.uniquePaths" configurationId="JUnit" />
+    <history-entry file="Solution_numberTower - 2019.11.25 at 23h 46m 44s.xml">
+      <configuration name="Solution.numberTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_uniquePaths - 2019.11.25 at 21h 20m 39s.xml">
-      <configuration name="Solution.uniquePaths" configurationId="JUnit" />
+    <history-entry file="Solution_numberTower - 2019.11.25 at 23h 47m 24s.xml">
+      <configuration name="Solution.numberTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_uniquePaths - 2019.11.25 at 21h 24m 00s.xml">
-      <configuration name="Solution.uniquePaths" configurationId="JUnit" />
+    <history-entry file="Solution_numberTower - 2019.11.25 at 23h 48m 09s.xml">
+      <configuration name="Solution.numberTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_uniquePathsWithObstacles - 2019.11.25 at 21h 08m 40s.xml">
+    <history-entry file="Solution_uniquePathsWithObstacles - 2019.11.25 at 21h 44m 11s.xml">
       <configuration name="Solution.uniquePathsWithObstacles" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="276392000" />
+    <option name="totallyTimeSpent" value="279168000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1211,6 +1255,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="23" width="1395" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1222,12 +1267,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22533137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19871795" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2628205" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3628205" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08974359" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21983716" sideWeight="0.4948718" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21983716" sideWeight="0.4948718" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27013177" sideWeight="0.4948718" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1334,7 +1379,8 @@
     <MESSAGE value="增加LeetCode每日一题" />
     <MESSAGE value="netty实现websocket" />
     <MESSAGE value="lucene案例" />
-    <option name="LAST_COMMIT_MESSAGE" value="lucene案例" />
+    <MESSAGE value="DP" />
+    <option name="LAST_COMMIT_MESSAGE" value="DP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1500,21 +1546,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Java8/FutureTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-615">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Java8/CollectorsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-363">
-          <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Java/RandomTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -1617,6 +1648,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2742#2743#0" expanded="false" />
+            <element signature="e#2781#2782#0" expanded="false" />
+            <element signature="e#2808#2809#0" expanded="false" />
+            <element signature="e#2869#2870#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1624,6 +1662,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1631,6 +1670,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1638,6 +1678,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1653,6 +1694,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1935,14 +1979,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-rc-1/junit-4.13-rc-1.jar!/org/junit/internal/builders/JUnit4Builder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1951,18 +1987,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Range1_20/Solution.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+        <state relative-caret-position="140">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0.jar!/com/google/common/collect/SingletonImmutableList.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="157">
+          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding>
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0.jar!/com/google/common/collect/ImmutableList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="51" column="19" lean-forward="true" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+          <folding>
+            <element signature="e#1361#1362#0" expanded="true" />
+            <element signature="e#1419#1420#0" expanded="true" />
+            <element signature="e#1593#1594#0" expanded="true" />
+            <element signature="e#1651#1652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="106" column="16" lean-forward="false" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Range1_20/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="199" column="8" lean-forward="true" selection-start-line="199" selection-start-column="8" selection-end-line="199" selection-end-column="8" />
           <folding />
         </state>
       </provider>
