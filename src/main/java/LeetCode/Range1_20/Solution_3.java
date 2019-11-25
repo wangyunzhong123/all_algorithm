@@ -100,5 +100,22 @@ public class Solution_3 {
         return ans;
     }
 
+    public static int lengthOfLongestSubstring4(String s) {
+        Map<Character, Integer> map = new Hashtable<>();
+        int start = 0;
+        int max = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (map.containsKey(s.charAt(i))) {
+                start = map.get(s.charAt(i));
+                map.put(s.charAt(i), i);
+            }
+
+            max = Math.max(max, i - start + 1);
+
+        }
+
+        return 0;
+    }
+
 }
 

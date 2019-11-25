@@ -9,7 +9,7 @@
         <module name="算法实现" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="算法实现" target="1.8" />
     </bytecodeTargetLevel>
   </component>

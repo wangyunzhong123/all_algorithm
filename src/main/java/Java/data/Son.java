@@ -1,14 +1,15 @@
 package Java.data;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 /**
  * Created by yzwang on 2019/9/22.
  */
 public class Son extends Person {
 
+    public Map map = new Hashtable<Object, Object>();
+
+    // 重载的时候可以返回父类返回类型的子类型
     @Override
     public Son fun(int a) {
         return new Son();
@@ -22,6 +23,8 @@ public class Son extends Person {
 //    public static String fun1(List<String> list) {
 //        return "";
 //    }
+
+
 
     public static void main(String[] args) {
 //        System.out.println(fun1(new ArrayList<Integer>()));

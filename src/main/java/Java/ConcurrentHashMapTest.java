@@ -58,6 +58,8 @@ public class ConcurrentHashMapTest {
     public static void fun1(List<? extends String> list) {
         list.stream().forEach(e -> {
             System.out.println(e);
+
+
         });
     }
     public static List<Parent> get() {
